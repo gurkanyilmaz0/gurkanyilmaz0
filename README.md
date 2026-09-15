@@ -9,7 +9,7 @@ Targeting robust firmware development, real-time control, and telemetry architec
 - 🔭 **Current Focus:** Embedded software development on ARM Cortex-M (STM32) architectures, real-time data acquisition, and vehicle control/telemetry subsystems.
 - ⚙️ **Core Philosophy:** Modular architecture, deterministic code execution, robust communication protocols, and adherence to safe embedded coding standards.
 - 🎯 **Career Target:** Embedded Software Engineer in Defense & Aerospace Systems.
-- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/g%C3%BCrkan-y%C4%B1lmaz-a8a489285/) • [Email](mailto:canakkalegurkan056@gmail.com)
+- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/g%C3%BCrkan-y%C4%B1lmaz-a8a489285/) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=canakkalegurkan056@gmail.com)
 
 ---
 
