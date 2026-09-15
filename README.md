@@ -2,21 +2,11 @@
 
 # Gürkan Yılmaz
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gurkanyilmaz0.gurkanyilmaz0)
 
-`Embedded Systems & Firmware Developer`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091e3a,100:2b6cb0&height=160&section=header&text=Gürkan%20Yılmaz&fontSize=38&fontColor=ffffff&desc=Embedded%20Systems%20%26%20Firmware%20Developer&descSize=16" width="100%" />
 
 <br/>
 
-<!-- 3D Contribution İzometrik Profil Grafiği -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=gurkanyilmaz0&theme=tokyonight" alt="3D Profile Contrib" width="85%" />
-
-<br/><br/>
-
-<!-- Kompakt İstatistik ve Dil Dağılım Kartları -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurkanyilmaz0&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkanyilmaz0&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" width="45%" alt="Languages" />
-</p>
+<img src="https://streak-stats.demolab.com?user=gurkanyilmaz0&theme=radical&hide_border=true&border_radius=10" alt="Streak" />
 
 </div>
