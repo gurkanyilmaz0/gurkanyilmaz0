@@ -1,41 +1,49 @@
 # Gürkan Yılmaz
 
-**Computer Engineering Student | Embedded Systems & Telemetry Enthusiast**  
-Targeting robust firmware development, real-time control, and telemetry architectures for defense & aerospace applications.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gurkanyilmaz0.gurkanyilmaz0)
+
+**Embedded Systems & Avionics Software Developer**  
+*Focused on bare-metal firmware development, deterministic communication protocols, and mission-critical embedded subsystems.*
 
 ---
 
 ### 📌 About Me
-- 🔭 **Current Focus:** Embedded software development on ARM Cortex-M (STM32) architectures, real-time data acquisition, and vehicle control/telemetry subsystems.
-- ⚙️ **Core Philosophy:** Modular architecture, deterministic code execution, robust communication protocols, and adherence to safe embedded coding standards.
-- 🎯 **Career Target:** Embedded Software Engineer in Defense & Aerospace Systems.
-- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/g%C3%BCrkan-y%C4%B1lmaz-a8a489285/) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=canakkalegurkan056@gmail.com)
+- 🎯 Developing low-level, deterministic embedded software solutions for mission-critical avionic systems and vehicle control units (ECUs).
+- ⚙️ **Core Focus:** ARM Cortex-M architecture, register-level peripheral driver development (Bare-Metal), deterministic bus communication (CAN, LoRa, SPI, UART), and real-time telemetry processing.
+- 📐 Dedicated to clean, modular C architecture independent of vendor abstraction layers (HAL/LL).
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### 🛠 Technical Competencies
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | C (MISRA C concepts), C++, Embedded C, Python, Assembly (Cortex-M basics) |
-| **Microcontrollers** | STM32 (Cortex-M0/M3/M4), AVR, ESP8266/ESP32 |
-| **Protocols & Buses** | CAN (Controller Area Network), UART/USART, SPI, I2C, LoRa |
-| **RTOS & Firmware** | FreeRTOS (Queues, Semaphores, Mutexes, Task Scheduling), Bare-Metal, HAL / LL |
-| **Toolchains & IDEs** | STM32CubeIDE, GCC ARM Toolchain, Make/CMake, VS Code, Git |
-| **Hardware Debugging** | ST-Link, Logic Analyzers (PulseView/Saleae), Oscilloscopes, Multimeters |
+- **Languages:** Embedded C, C++, Python, MISRA C Guidelines
+- **Architectures & MCUs:** ARM Cortex-M4 (STM32F407), STM32 Ecosystem, AVR (ATmega), ESP8266
+- **Peripherals & Protocols:** bxCAN / CAN 2.0B, LoRa (E22 Series), DMA, ADC, SPI, I2C, UART, Timers
+- **Tools & Workflow:** STM32CubeIDE, ST-Link / SWD, Logic Analyzers, Git, VS Code
 
 ---
 
-### 🚀 Key Focus Areas & Architecture Concepts
-- **Layered Architecture:** Clear decoupling between Hardware Abstraction (HAL/LL), Board Support Packages (BSP), Device Drivers, and Application Logic.
-- **Robust Telemetry:** Packet framing, CRC/Checksum verification, error-handling state machines, and noise-tolerant communication over CAN & RF links.
-- **Hardware-in-the-Loop & Debugging:** Protocol packet decoding via logic analyzers and register-level peripheral diagnosis.
+### 🚀 Featured Repositories
+
+#### [stm32-can-telemetry-engine](https://github.com/gurkanyilmaz0/stm32-can-telemetry-engine)
+> **Bare-Metal STM32 CAN Telemetry & Diagnostic Engine**
+> - Implemented a register-level bxCAN driver on STM32F407 without vendor HAL/LL libraries.
+> - Configured 500 kbps bit timing on 42 MHz APB1 clock (14 tq, 85.7% sample point).
+> - Engineered Big-Endian serialization and non-blocking asynchronous RX processing via NVIC IRQ 20.
+> - Validated end-to-end data integrity through hardware loopback mode and ST-Link Live Expressions.
 
 ---
 
-### 📂 Repository Showcase Highlights
-*Below are pinned projects representing my embedded software development workflows:*
+### 📊 GitHub Overview
 
-1. **[CAN-Telemetry-Controller]**: Multi-node telemetry & data framing engine using CAN bus with custom packet parsing and CRC check.
-2. **[BareMetal-STM32-Drivers]**: Register-level peripheral driver implementations (UART, SPI, Timer interrupts) without vendor runtime bloat.
-3. **[RTOS-Sensor-Hub]**: FreeRTOS-based multi-threaded sensor acquisition and fail-safe state machine.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurkanyilmaz0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkanyilmaz0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@EXAMPLE.COM)
