@@ -8,4 +8,9 @@
 
 <img src="https://streak-stats.demolab.com/?user=gurkanyilmaz0&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
+<br/><br/>
+
+<!-- Stabil Activity Graph Dağıtımı -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gurkanyilmaz0&theme=radical&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
+
 </div>
