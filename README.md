@@ -4,4 +4,4 @@
   <img src="https://streak-stats.demolab.com/?user=gurkanyilmaz0&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" /> 
   <br/><br/> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurkanyilmaz0&theme=radical" alt="GitHub Summary Card" />
-</div>
+</div>jdjsfd
